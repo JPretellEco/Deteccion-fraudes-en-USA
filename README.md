@@ -12,3 +12,4 @@ La aplicación de estos modelos no solo permite detectar patrones sutiles en el 
 
 El resultado esperado de este proyecto es el desarrollo de un modelo predictivo robusto y escalable, capaz de identificar transacciones sospechosas en tiempo real, con bajo nivel de falsos positivos y alta capacidad de generalización. Esto permitiría a la entidad financiera optimizar sus sistemas de alerta y respuesta ante fraudes, reduciendo pérdidas económicas y protegiendo a millones de usuarios en todo el territorio estadounidense.
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/slides/4MvZusPAv7lnzqabBOrvva/Untitled?node-id=1-35&embed-host=share" allowfullscreen></iframe>
